@@ -1,8 +1,7 @@
-
 import React from 'react'
 import Link from 'next/link'
 
-function Mugs() {
+function Stickers() {
   return (
     <div>
     <section className="text-gray-600 body-font">
@@ -14,7 +13,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className=" m-auto object-cover object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -33,7 +32,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -52,7 +51,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className=" mt-4 text-center">
@@ -71,7 +70,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -90,7 +89,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -109,7 +108,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -128,7 +127,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -147,7 +146,7 @@ function Mugs() {
               <img
                 alt="ecommerce"
                 className="object-cover m-auto object-top w-full h-full block"
-                src="https://i.pinimg.com/474x/85/3d/d8/853dd89f84556363c590578a7fb3d20f.jpg"
+                src="https://i.pinimg.com/474x/17/ed/53/17ed53e3280d49902aaebb24cc4e6291.jpg"
               />
             </a>
             <div className="mt-4 text-center">
@@ -168,4 +167,4 @@ function Mugs() {
   )
 }
 
-export default Mugs
+export default Stickers

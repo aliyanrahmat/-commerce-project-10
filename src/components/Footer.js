@@ -8,11 +8,11 @@ function Footer() {
       <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
       
      
-       <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 -mt-5">
+     
        <Link href={'/'}>
         <img src='/c-2.png' alt='' className='text-1xl w-32 h-32'/>
           </Link>
-        </a>
+      
     
 
 

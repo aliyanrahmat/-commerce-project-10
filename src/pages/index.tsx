@@ -1,12 +1,9 @@
 import Image from 'next/image'
-import Navebar from '../components/Navebar'
 import Content from '../components/content'
-import Footer from '../components/Footer'
 
 export default function Home() {
   return (
     <main>
-      <Navebar/>
       <div className="">
         <img src='/24.jpg' alt=''/>
       </div>
@@ -91,7 +88,6 @@ export default function Home() {
   </div>
 </section>
       <Content/>
-      <Footer/>
     
     </main>
   )
